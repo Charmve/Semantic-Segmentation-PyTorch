@@ -10,6 +10,7 @@ implemented in PyTorch
 4. PSPNet ([Pyramid scene parsing network](https://arxiv.org/pdf/1612.01105))
 5. GCN ([Large Kernel Matters](https://arxiv.org/pdf/1703.02719))
 6. DUC, HDC ([understanding convolution for semantic segmentation](https://arxiv.org/pdf/1702.08502.pdf))
+7. Mask-RCNN ([paper](https://arxiv.org/abs/1703.06870), [code from FAIR](https://github.com/facebookresearch/Detectron), [<b>code PyTorch</b>](https://github.com/multimodallearning/pytorch-mask-rcnn))
 
 ## Requirement
 1. PyTorch 0.2.0
@@ -21,6 +22,7 @@ implemented in PyTorch
 2. Go to *datasets* directory and do following the README
 
 ## TODO
+I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/05_Image%20Segmentation" target="_blank"><i>The Image Segmentation Paper Top10</i></a>
 1. DeepLab v3
 2. RefineNet
 3. More dataset (e.g. ADE)
