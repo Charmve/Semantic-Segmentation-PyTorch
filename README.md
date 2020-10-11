@@ -22,7 +22,8 @@ implemented in PyTorch
 2. Go to *datasets* directory and do following the README
 
 ## TODO
-I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/05_Image%20Segmentation" target="_blank"><i>The Image Segmentation Paper Top10</i></a>
+I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/05_Image%20Segmentation" target="_blank"><i>The Image Segmentation Paper Top10 Net</i></a> in PyTorch firstly.
+
 1. DeepLab v3
 2. RefineNet
 3. More dataset (e.g. ADE)
