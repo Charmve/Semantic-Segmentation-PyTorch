@@ -24,6 +24,8 @@ implemented in PyTorch
 ## TODO
 I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/05_Image%20Segmentation" target="_blank"><i>The Image Segmentation Paper Top10 Net</i></a> in PyTorch firstly.
 
-1. DeepLab v3
-2. RefineNet
-3. More dataset (e.g. ADE)
+- [ ] DeepLab v3  
+- [ ] RefineNet 
+- [ ] ImageNet
+- [ ] GoogleNet
+- [ ] More dataset (e.g. ADE)
