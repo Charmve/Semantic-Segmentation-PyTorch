@@ -33,7 +33,7 @@ I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/ma
 ## Citation
 Use this bibtex to cite this repository:
 ```
-@misc{DEye,
+@misc{PyTorch for Semantic Segmentation,
   title={Some Implementation of Semantic Segmentation in PyTorch},
   author={Charmve},
   year={2020.10},
