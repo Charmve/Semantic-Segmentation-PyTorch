@@ -32,7 +32,7 @@ I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/ma
 
 ## Citation
 Use this bibtex to cite this repository:
-
+```
 @misc{DEye,
   title={Some Implementation of Semantic Segmentation in PyTorch},
   author={Charmve},
@@ -41,3 +41,4 @@ Use this bibtex to cite this repository:
   journal={GitHub repository},
   howpublished={\url{https://github.com/Charmve/Semantic-Segmentation-PyTorch}},
 }
+```
