@@ -29,3 +29,15 @@ I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/ma
 - [ ] ImageNet
 - [ ] GoogleNet
 - [ ] More dataset (e.g. ADE)
+
+## Citation
+Use this bibtex to cite this repository:
+
+@misc{DEye,
+  title={Some Implementation of Semantic Segmentation in PyTorch},
+  author={Charmve},
+  year={2020.10},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/Charmve/Semantic-Segmentation-PyTorch}},
+}
