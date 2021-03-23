@@ -1,4 +1,4 @@
-# PyTorch for Semantic Segmentation
+# Semantic Segmentation in PyTorch
 This repository contains some models for semantic segmentation and the pipeline of training and testing models, 
 implemented in PyTorch
 
