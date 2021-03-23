@@ -18,8 +18,8 @@ implemented in PyTorch
 3. Some other libraries (find what you miss when running the code :-P)
 
 ## Preparation
-1. Go to *models* directory and set the path of pretrained models in *config.py*
-2. Go to *datasets* directory and do following the README
+1. Go to ``*models*`` directory and set the path of pretrained models in ``*config.py*``
+2. Go to ``*datasets*`` directory and do following the ``README``
 
 ## TODO
 I'm going to implement <a href="https://github.com/Charmve/PaperWeeklyAI/tree/master/05_Image%20Segmentation" target="_blank"><i>The Image Segmentation Paper Top10 Net</i></a> in PyTorch firstly.
